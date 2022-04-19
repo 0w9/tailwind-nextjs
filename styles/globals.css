@@ -1,3 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.center {
+  display: flex;
+}
+
 html,
 body {
   padding: 0;
